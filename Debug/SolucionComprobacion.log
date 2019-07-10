@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  SolucionComprobacion.cpp
+c:\users\usuario\documents\ucm\fp\practica 2\solucioncomprobacion\solucioncomprobacion.cpp(562): warning C4101: 'direccion': variable local sin referencia
+c:\users\usuario\documents\ucm\fp\practica 2\solucioncomprobacion\solucioncomprobacion.cpp(562): warning C4101: 'posIni': variable local sin referencia
+c:\users\usuario\documents\ucm\fp\practica 2\solucioncomprobacion\solucioncomprobacion.cpp(562): warning C4101: 'i': variable local sin referencia
+  Generando código...
+c:\users\usuario\documents\ucm\fp\practica 2\solucioncomprobacion\solucioncomprobacion.cpp(283): warning C4715: 'excavadora1Izquierda': no todas las rutas de acceso de control devuelven un valor
+  SolucionComprobacion.vcxproj -> C:\Users\Usuario\Documents\UCM\FP\Practica 2\SolucionComprobacion\Debug\SolucionComprobacion.exe
+  SolucionComprobacion.vcxproj -> C:\Users\Usuario\Documents\UCM\FP\Practica 2\SolucionComprobacion\Debug\SolucionComprobacion.pdb (Full PDB)
